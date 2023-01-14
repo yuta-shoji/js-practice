@@ -1,0 +1,20 @@
+{
+  "name": "js-practice-with-tk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./src/lesson1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuta-shoji/js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuta-shoji/js-practice/issues"
+  },
+  "homepage": "https://github.com/yuta-shoji/js-practice#readme"
+}
