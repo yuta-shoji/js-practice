@@ -98,3 +98,5 @@ function getUnko(){
 const outaraUnko=getUnko()
 
 console.log(outaraUnko)
+
+

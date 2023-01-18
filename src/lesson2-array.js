@@ -61,3 +61,22 @@ const sweets = ["cake", "pudding", "iceCream", "parfait", "halohalo"];
 
 
 // 与えられた配列の最後に jelly の文字列を追加して返す関数 push を宣言して実行しなさい
+
+const user = {
+    name: 'koji',
+    age: 24,
+    gender: 'man',
+    hoken: false
+}
+
+console.log(user.name)
+
+function runLog() {
+    console.log("hogehoge");
+}
+
+const console1 = {
+    log: runLog
+}
+
+console1.log()
