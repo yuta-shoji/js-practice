@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "node ./src/practice2-array.js",
-    "lesson": "node ./src/lesson2-array.js"
+    "start": "node ./src/object/practice2-array.js",
+    "lesson": "node ./src/object/lesson3-object.js"
   },
   "repository": {
     "type": "git",
