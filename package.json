@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "node ./src/for/practice.js",
-    "lesson": "node ./src/for/lesson-for.js"
+    "start": "node ./src/map_forEach/practice.js",
+    "lesson": "node ./src/map_forEach/lesson-for.js"
   },
   "repository": {
     "type": "git",
